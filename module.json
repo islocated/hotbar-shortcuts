@@ -1,0 +1,13 @@
+{
+  "name": "hotbar-shortcuts",
+  "title": "Hotbar Shortcuts",
+  "description": "Set up new keyboard shortcuts [ and ] for switching hotbars",
+  "version": "1.0",
+  "minimumCoreVersion": "0.5.5",
+  "compatibleCoreVersion": "0.7.6",
+  "author": "Minh Nguyen",
+  "scripts": ["scripts/main.js"],
+  "url": "",
+  "manifest": "",
+  "download": ""
+}
